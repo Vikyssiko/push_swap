@@ -1,6 +1,8 @@
 # 42 push_swap
 Push_swap is a project which allows to sort a stack of unique numbers using minimal number of allowed operations
 
+![visualizer](push_swap.gif)
+
 * There are 2 stacks named a and b.
 * The `stack a` contains a random amount of unique negative and/or positive numbers.
 * The `stack b` is empty.
